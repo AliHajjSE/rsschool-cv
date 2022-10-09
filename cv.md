@@ -43,3 +43,22 @@ I have a clear, logical mind with a practical approach to problem solving and dr
 - Communication
 - Team building
 - Management
+
+5. Code Example:
+
+Developing a website that displays customer information using PostgreSQL, Java spring boot, React js, Redis Cache, and RabbitMQ.
+
+6. Experience:
+
+Currently Working As a web developer Since 1 month ago.
+
+7. Education:
+
+- Vistula University: Master’s Degree in Computer Engineering, Data Science (Currently enrolled).
+- Beirut Arab University: Bachelor of Engineering in Computer Engineering.
+
+8. Languages:
+
+- Arabic (Native)
+- English (C1)
+- German (A1)
