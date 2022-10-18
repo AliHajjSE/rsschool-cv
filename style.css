@@ -3,6 +3,7 @@ body {
   font-family: 'Raleway';
   font-size: 16px;
   line-height: 1.8em;
+  justify-content: center;
 }
 
 a {
@@ -61,7 +62,9 @@ h4 {
   font-weight: bold;
 }
 
-
+div {
+  margin: auto;
+}
 
 main section:not(:last-child) {
   border-bottom: 1px solid #ccc;
@@ -87,7 +90,7 @@ main section:not(:last-child) {
 }
 
 
-.skills .column {
+.skills .skill {
   max-width: 100%;
 }
 
