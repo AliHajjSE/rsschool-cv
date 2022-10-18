@@ -62,7 +62,9 @@ h4 {
   font-weight: bold;
 }
 
-
+div {
+  margin: auto;
+}
 
 main section:not(:last-child) {
   border-bottom: 1px solid #ccc;
